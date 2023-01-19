@@ -5,8 +5,8 @@
 #include <Adafruit_BMP085.h>      // Adafruit BMP085 by Adafruit version 1.2.2
 #include <BH1750.h>               // BH1750 by Christopher Laws version 1.3.0
 
-#define SECRET_SSID "tomato"      // replace with your WiFi network name
-#define SECRET_PASS "king@535383" // replace with your WiFi password
+#define SECRET_SSID "IoT_Test"      // replace with your WiFi network name
+#define SECRET_PASS "qwertyuiop" // replace with your WiFi password
 
 #define SECRET_CH_ID 952592       // replace 0000000 with your channel number
 #define SECRET_WRITE_APIKEY "FC78KESIUHFA9LO3"   // replace XYZ with your channel write API Key
